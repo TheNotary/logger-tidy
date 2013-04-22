@@ -2,6 +2,8 @@
 
 This gem extends the logger.rb file with a way of trimming the first x lines of the log file when the file reaches a size of max_file_size.  
 
+The gem is not finished yet, it's just a stub for when I get free time to patch some applications I've done with a home-rolled logger.  Feel free to flesh it out if you got spare time.  
+
 ## Installation
 
 Add this line to your application's Gemfile:
